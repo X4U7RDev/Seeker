@@ -1,4 +1,4 @@
-Version 1.2
+Version 1.3
 
 Cambios en esta versión:
 - Mejoras en la taza de cambio
